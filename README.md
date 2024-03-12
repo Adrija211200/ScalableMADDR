@@ -1,2 +1,4 @@
 # ScalableMADDR
-Scalable version of MADD
+
+This repo contains important codes related to Scalable version of MADD.
+
